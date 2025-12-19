@@ -1,4 +1,4 @@
-# USDC Simulate
+# Tether Simulate
 
 <p align="left">
   <img src="USDT32.svg" width="100">
